@@ -3,3 +3,5 @@
 1. მხედრული
 2. ნუსხა-ხუცური
 3. ასომთავრული
+
+Heroku app: https://convert-alpha.herokuapp.com/
