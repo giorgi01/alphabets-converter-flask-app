@@ -29,5 +29,5 @@ def converted():
                f'ნუსხა-ხუცური: {text.convert_to_khutsuri()}'
 
 
-app.run(host='0.0.0.0')
-
+if __name__ == '__main__':
+    app.run(host='0.0.0.0')
